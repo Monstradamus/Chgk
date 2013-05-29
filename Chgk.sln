@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chgk", "Chgk\Chgk.csproj", "{E45B34C7-7429-4344-9651-7B790DC17412}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ChgkStorage", "ChgkStorage\ChgkStorage.csproj", "{99194AF5-08D5-4F7F-A163-DE7E2E63465F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{2B86707E-525C-4083-A4B7-CBD1F928AE55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B86707E-525C-4083-A4B7-CBD1F928AE55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B86707E-525C-4083-A4B7-CBD1F928AE55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B86707E-525C-4083-A4B7-CBD1F928AE55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B86707E-525C-4083-A4B7-CBD1F928AE55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99194AF5-08D5-4F7F-A163-DE7E2E63465F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99194AF5-08D5-4F7F-A163-DE7E2E63465F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99194AF5-08D5-4F7F-A163-DE7E2E63465F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99194AF5-08D5-4F7F-A163-DE7E2E63465F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E45B34C7-7429-4344-9651-7B790DC17412}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E45B34C7-7429-4344-9651-7B790DC17412}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E45B34C7-7429-4344-9651-7B790DC17412}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E45B34C7-7429-4344-9651-7B790DC17412}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Chgk\Chgk.csproj
+	EndGlobalSection
+EndGlobal
